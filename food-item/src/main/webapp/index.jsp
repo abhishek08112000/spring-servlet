@@ -28,6 +28,7 @@
 
 			<form class="d-flex">
 				<a href="foodItem.jsp" class="form-control me-2">Food Item</a>
+				<a href="interview.jsp" class="form-control me-2">Interview</a>
 			</form>
 		</div>
 	</nav>
